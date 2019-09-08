@@ -1,0 +1,6 @@
+version=1
+id=1458118386
+title=Vehicle Debug Menu (v 1.0)
+description=Mod for developers of Enhanced Vehicles
+tags=
+visibility=friendsOnly
